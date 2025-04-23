@@ -1,16 +1,19 @@
-# calculator
+                                          -------    📱 Calculator App (Postfix Method)   -------
 
-A new Flutter project.
+A modern and minimal calculator built with **Flutter**, using the **Postfix expression (Reverse Polish Notation)** algorithm for accurate and efficient expression evaluation
 
-## Getting Started
+## ✨ Features----------------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+- 🔢 Basic arithmetic operations (➕ ➖ ✖️ ➗)
+- 🧠 Postfix Expression Evaluation (Reverse Polish Notation (RPN) )
+- 💡 Error Handling
+- 🎨 Multi-Color Themes
+- 🌗 Theme Support (Optional)
+- ⚡ Fast, and responsive
+- ⚙️ Custom Expression Input
+- 📱 Built for Android & iOS
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots----------------------------------------------------------------
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
