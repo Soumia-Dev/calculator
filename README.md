@@ -16,8 +16,18 @@ A modern and minimal calculator built with **Flutter**, using the **Postfix expr
 ## 📸 Screenshots----------------------------------------------------------------
 
 <p align="center">
-  <img src="assets/screenShots/01.png" width="200" alt="01">
-  <img src="assets/screenShots/02.png" width="200" alt="02">
-  <img src="assets/screenShots/03.png" width="200" alt="03">
+  <img src="assets/screenShots/01.png" width="250" style="margin: 5px;" alt="01">
+  <img src="assets/screenShots/02.png" width="250" style="margin: 5px;" alt="02">
+  <img src="assets/screenShots/03.png" width="250" style="margin: 5px;" alt="03">
+</p>
+
+<p align="center">
+  <img src="assets/screenShots/04.png" width="250" style="margin: 5px;" alt="04">
+  <img src="assets/screenShots/05.png" width="250" style="margin: 5px;" alt="05">
+  <img src="assets/screenShots/06.png" width="250" style="margin: 5px;" alt="06">
+</p>
+
+<p align="center">
+  <img src="assets/screenShots/07.png" width="250" style="margin: 5px;" alt="07">
 </p>
 
